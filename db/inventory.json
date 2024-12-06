@@ -1,0 +1,18 @@
+[
+  {
+    "id": "VEG001",
+    "name": "Carrot",
+    "price": 250.0,
+    "quantity": 138,
+    "category": "Root",
+    "expiryDate": "2024-12-15"
+  },
+  {
+    "id": "VEG002",
+    "name": "Broccoli",
+    "price": 300.0,
+    "quantity": 95,
+    "category": "Leafy",
+    "expiryDate": "2024-12-20"
+  }
+]
